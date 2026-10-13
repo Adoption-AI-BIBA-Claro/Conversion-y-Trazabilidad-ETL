@@ -19,21 +19,6 @@ https://codemie.lab.epam.com/assistants/conversin-y-trazabilidad-etl-v21/start
 
 ## Estructura del repositorio
 
-Conversion-y-Trazabilidad-ETL/
-├── O-Agente-BibaC-FCT-Analisis-Md-Xml/
-│   ├── O-Agente-BibaC-FCT-Analisis-Md-Xml.md
-│   ├── plantilla_fallback_v3.md
-│   └── README.md
-├── O-Agente-BibaC-FCT-Docx-To_Markdown/
-│   ├── O-Agente-BibaC-FCT-Docx-To_Markdown.md
-│   └── README.md
-├── O-Agente-BibaC-FCT-Markdown-Excel/
-│   ├── O-Agente-BibaC-FCT-Markdown-Excel.md
-│   └── README.md
-└── O-Agente-BibaC-FCT-Orquestador/
-    ├── O-Agente-BibaC-FCT-Orquestador.md
-    └── README.md
-
 | Carpeta / Archivo                              | Descripcion                                                                 |
 |--------------------------------------------------|--------------------------------------------------------------------------------|
 | O-Agente-BibaC-FCT-Orquestador/                  | Agente orquestador. Coordina el pipeline completo e invoca a los subagentes. |
